@@ -4,7 +4,7 @@ import "./App.css";
 
 const GEO_URL = "https://geocoding-api.open-meteo.com/v1/search";
 const FORECAST_URL = "https://api.open-meteo.com/v1/forecast";
-const DEFAULT_CITY = "Lahore";
+const DEFAULT_CITY = "Chishtian";
 
 const ERROR_MESSAGES = {
   EMPTY: "Please enter a city name.",
